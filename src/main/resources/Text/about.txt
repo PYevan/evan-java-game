@@ -1,0 +1,5 @@
+EnviroVenture is an adventure game with an environmental theme. It's designed to entertain and educate players while having fun.
+
+Created by Jorge, Evan, Michael, Howie, and Christian
+
+Copyright © 2024 EnviroVenture Team. All rights reserved.
